@@ -1,0 +1,24 @@
+{
+  "name": "username.github.io",
+  "version": "1.0.0",
+  "description": "Blog site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/username.github.io.git"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/username/username.github.io/issues"
+  },
+  "homepage": "https://github.com/username/username.github.io#readme",
+  "devDependencies": {
+    "browser-sync": "^2.16.0",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.5.2"
+  }
+}
